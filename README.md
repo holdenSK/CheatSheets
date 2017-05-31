@@ -3,7 +3,7 @@ Cheat Sheets
 
 > **NOTE**: This repo is best used by placing a bookmark in your address bar.
 
-This is a collection of cheat sheets that @JoshuaEstest has compiled over the years that he
+This is a collection of cheat sheets that @JoshuaEstes has compiled over the years that he
 put together while learning various tools. They contain some good information
 and a few gems that he has learned along the way. Feel free to contribute.
 
