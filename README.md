@@ -45,17 +45,17 @@ rel="cc:morePermissions">https://github.com/JoshuaEstes/CheatSheets/blob/master/
 See [LICENSE] for full license.
 
 
-[Bash]: https://github.com/JoshuaEstes/CheatSheets/blob/master/bash.md
-[Git]: https://github.com/JoshuaEstes/CheatSheets/blob/master/git.md
-[GnuPG]: https://github.com/JoshuaEstes/CheatSheets/blob/master/gnupg.md
-[irssi]: https://github.com/JoshuaEstes/CheatSheets/blob/master/irssi.md
-[JIRA]: https://github.com/JoshuaEstes/CheatSheets/blob/master/jira.md
-[mutt]: https://github.com/JoshuaEstes/CheatSheets/blob/master/mutt.md
-[nmap]: https://github.com/JoshuaEstes/CheatSheets/blob/master/nmap.md
-[openssl]: https://github.com/JoshuaEstes/CheatSheets/blob/master/openssl.md
-[tmux]: https://github.com/JoshuaEstes/CheatSheets/blob/master/tmux.md
-[uml]: https://github.com/JoshuaEstes/CheatSheets/blob/master/uml.md
-[vim]: https://github.com/JoshuaEstes/CheatSheets/blob/master/vim.md
-[zsh]: https://github.com/JoshuaEstes/CheatSheets/blob/master/zsh.md
-[other]: https://github.com/JoshuaEstes/CheatSheets/blob/master/other.md
-[LICENSE]: https://github.com/JoshuaEstes/CheatSheets/blob/master/LICENSE
+[Bash]: https://github.com/holdenSK/CheatSheets/blob/master/bash.md
+[Git]: https://github.com/holdenSK/CheatSheets/blob/master/git.md
+[GnuPG]: https://github.com/holdenSK/CheatSheets/blob/master/gnupg.md
+[irssi]: https://github.com/holdenSK/CheatSheets/blob/master/irssi.md
+[JIRA]: https://github.com/holdenSK/CheatSheets/blob/master/jira.md
+[mutt]: https://github.com/holdenSK/CheatSheets/blob/master/mutt.md
+[nmap]: https://github.com/holdenSK/CheatSheets/blob/master/nmap.md
+[openssl]: https://github.com/holdenSK/CheatSheets/blob/master/openssl.md
+[tmux]: https://github.com/holdenSK/CheatSheets/blob/master/tmux.md
+[uml]: https://github.com/holdenSK/CheatSheets/blob/master/uml.md
+[vim]: https://github.com/holdenSK/CheatSheets/blob/master/vim.md
+[zsh]: https://github.com/holdenSK/CheatSheets/blob/master/zsh.md
+[other]: https://github.com/holdenSK/CheatSheets/blob/master/other.md
+[LICENSE]: https://github.com/holdenSK/CheatSheets/blob/master/LICENSE
